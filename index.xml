@@ -8,12 +8,22 @@
     <language>kr</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://lordofwill.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>https://lordofwill.github.io/post/chapter-1/</link>
+      <title>숫자가 만만해지는 책</title>
+      <link>https://lordofwill.github.io/post/%EC%88%AB%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%A7%8C%ED%95%B4%EC%A7%80%EB%8A%94_%EC%B1%85/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://lordofwill.github.io/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+      <guid>https://lordofwill.github.io/post/%EC%88%AB%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%A7%8C%ED%95%B4%EC%A7%80%EB%8A%94_%EC%B1%85/</guid>
+      <description>나의 숫자에 대한 무신경함을 알게 해준 책이다. 미디아의 실수 혹은 고의로 전해지는 틀린 숫자들을 경고한다. 필요한 숫자정보를 쉽게 어림짐작하는 법을 가르쳐준다. 숫자와 수치관련정보를 이용하여 사실을 추론하는 법을 제시한다. 내용 살펴보기</description>
+    </item>
+    
+    <item>
+      <title>내 소개</title>
+      <link>https://lordofwill.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lordofwill.github.io/about/</guid>
+      <description> 나는
+2022년 3월 인공지능교육과정 &amp;lsquo;Aiffel&amp;rsquo;을 졸업했습니다. </description>
     </item>
     
     <item>

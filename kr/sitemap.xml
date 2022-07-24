@@ -2,26 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lordofwill.github.io/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lordofwill.github.io/en/post/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://lordofwill.github.io/post/chapter-1/"
-                />
-  </url><url>
-    <loc>https://lordofwill.github.io/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://lordofwill.github.io/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -37,6 +17,21 @@
                 href="https://lordofwill.github.io/tags/"
                 />
   </url><url>
+    <loc>https://lordofwill.github.io/tags/%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lordofwill.github.io/post/%EC%88%AB%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%A7%8C%ED%95%B4%EC%A7%80%EB%8A%94_%EC%B1%85/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lordofwill.github.io/tags/%EC%88%AB%EC%9E%90%EA%B0%90%EA%B0%81/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://lordofwill.github.io/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -50,6 +45,31 @@
                 rel="alternate"
                 hreflang="kr"
                 href="https://lordofwill.github.io/"
+                />
+  </url><url>
+    <loc>https://lordofwill.github.io/tags/%EC%9D%BC%EC%83%81%EC%88%98%ED%95%99/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lordofwill.github.io/tags/%EC%BB%A4%EB%8B%88%EA%B1%B4/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lordofwill.github.io/project/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lordofwill.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://lordofwill.github.io/project/"
                 />
   </url><url>
     <loc>https://lordofwill.github.io/post/</loc>
@@ -79,6 +99,20 @@
                 rel="alternate"
                 hreflang="kr"
                 href="https://lordofwill.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://lordofwill.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lordofwill.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://lordofwill.github.io/about/"
                 />
   </url><url>
     <loc>https://lordofwill.github.io/%EC%97%B0%EB%9D%BD%EC%B2%98/</loc>
