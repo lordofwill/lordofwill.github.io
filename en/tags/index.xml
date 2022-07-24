@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Epimetheus Revolution</title>
+    <link>https://lordofwill.github.io/en/tags/</link>
+    <description>Recent content in Tags on Epimetheus Revolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://lordofwill.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>book about numbers</title>
+      <link>https://lordofwill.github.io/en/tags/book-about-numbers/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://lordofwill.github.io/en/tags/book-about-numbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian</title>
+      <link>https://lordofwill.github.io/en/tags/brian/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://lordofwill.github.io/en/tags/brian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernighan</title>
+      <link>https://lordofwill.github.io/en/tags/kernighan/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://lordofwill.github.io/en/tags/kernighan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
