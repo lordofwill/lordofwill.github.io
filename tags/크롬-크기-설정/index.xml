@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>기타 on 에피메테우스 혁명</title>
-    <link>https://lordofwill.github.io/miscellaneous/</link>
-    <description>Recent content in 기타 on 에피메테우스 혁명</description>
+    <title>크롬 크기 설정 on 에피메테우스 혁명</title>
+    <link>https://lordofwill.github.io/tags/%ED%81%AC%EB%A1%AC-%ED%81%AC%EA%B8%B0-%EC%84%A4%EC%A0%95/</link>
+    <description>Recent content in 크롬 크기 설정 on 에피메테우스 혁명</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://lordofwill.github.io/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 16:23:47 +0900</lastBuildDate><atom:link href="https://lordofwill.github.io/tags/%ED%81%AC%EB%A1%AC-%ED%81%AC%EA%B8%B0-%EC%84%A4%EC%A0%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>크롬 실행 시 창 크기 설정 방법</title>
       <link>https://lordofwill.github.io/miscellaneous/chrome_default_size/</link>
