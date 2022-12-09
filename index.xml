@@ -6,9 +6,24 @@
     <description>Recent content on 에피메테우스 혁명</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr</language>
-    <lastBuildDate>Sun, 16 Oct 2022 16:23:47 +0900</lastBuildDate><atom:link href="https://lordofwill.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 14:09:31 +0900</lastBuildDate><atom:link href="https://lordofwill.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>크롬 실행 시 창 크기 설정 방법</title>
+      <title>[키보드] 콜맥/한글2벌식 적용</title>
+      <link>https://lordofwill.github.io/miscellaneous/keyboard-colemak2han/</link>
+      <pubDate>Fri, 09 Dec 2022 14:09:31 +0900</pubDate>
+      
+      <guid>https://lordofwill.github.io/miscellaneous/keyboard-colemak2han/</guid>
+      <description>콜맥 사용자분들은 콜맥이 매우 편하게 디자인된 자판이지만, 호환성때문에 많은 불편을 안고 살아갑니다.
+이 것은 윈도우 환경에서 제가 사용하는 콜맥과 한글2벌식 자판의 적용방법과 vim에디터에 이를 적용한 방식입니다.
+키맵핑 기능이 있는 키보드, 날개셋 자판을 이용하여 콜맥키보드 환경을 구축했습니다.
+vim코드는 방향키를 h,l,j,n으로, 검색에서 기존의 n을 k로 지정하여 방향키외의 변경을 최소로 하였습니다.
+vim변경파일을 이용하여 vscode내에서 vim extension에도 적용가능합니다.
+제 깃허브의 키보드 설정파일에서\제공하는 파일을 적용방식에 맞게 세팅할 수 있습니다.
+감사합니다.</description>
+    </item>
+    
+    <item>
+      <title>[크롬] 초기 창 크기 설정 방법</title>
       <link>https://lordofwill.github.io/miscellaneous/chrome_default_size/</link>
       <pubDate>Sun, 16 Oct 2022 16:23:47 +0900</pubDate>
       
@@ -23,7 +38,7 @@
     </item>
     
     <item>
-      <title>숫자가 만만해지는 책</title>
+      <title>[교양] 숫자가 만만해지는 책</title>
       <link>https://lordofwill.github.io/bookshelf/%EC%88%AB%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%A7%8C%ED%95%B4%EC%A7%80%EB%8A%94_%EC%B1%85/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
@@ -32,13 +47,13 @@
     </item>
     
     <item>
-      <title>내 소개</title>
+      <title>블로그 운영자</title>
       <link>https://lordofwill.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lordofwill.github.io/about/</guid>
-      <description> 나는
-2022년 3월 인공지능교육과정 &amp;lsquo;Aiffel&amp;rsquo;을 졸업했습니다. </description>
+      <description> 저는
+2022년 3월 인공지능교육과정 &amp;lsquo;Aiffel&amp;rsquo;을 졸업 2022년 12월 &amp;lsquo;Corca AI&amp;rsquo; 입사 입니다. </description>
     </item>
     
     <item>
